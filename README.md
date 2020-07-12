@@ -11,7 +11,7 @@ In this project, I performed a descriptive as well as predictive distribution of
 
 ### Python Version: 3.7
 ### Packages: pandas, numpy, sklearn, matplotlib, seaborn
-
+### IDE: Jupyter Notebook
 
 ![](/images/Pot_Ovr.png)
 
