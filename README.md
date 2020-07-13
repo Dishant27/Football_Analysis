@@ -9,9 +9,11 @@ In this project, I performed a descriptive as well as predictive distribution of
 
 ## Code and Resources Used
 
-### Python Version: 3.7
-### Packages: pandas, numpy, sklearn, matplotlib, seaborn
-### IDE: Jupyter Notebook
+**Python Version:** 3.7
+
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn
+
+**IDE:** Jupyter Notebook
 
 ![](/images/Pot_Ovr.png)
 
