@@ -7,7 +7,7 @@ In this project, I performed a descriptive as well as predictive distribution of
 * Buyers can go through thier budget can can pick squad accordingly
 * The need of manual based selection system is completely reduced in this method.
 
-## Code and Resources Used
+## Resources Used
 
 **Python Version:** 3.7
 
