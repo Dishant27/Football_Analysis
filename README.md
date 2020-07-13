@@ -13,7 +13,7 @@ In this project, I performed a descriptive as well as predictive distribution of
 
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
 
-**IDE:** Jupyter Notebook
+**IDE:** [Jupyter Notebook](https://jupyter.org/)
 
 ![](/images/Pot_Ovr.png)
 
