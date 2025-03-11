@@ -43,11 +43,14 @@ This advanced sports analytics project provides:
 
 ### Data Sources
 
-- Comprehensive player statistics from multiple seasons
-- Physical attributes and performance metrics
-- Contract and market valuation data
-- Position-specific performance indicators
-- Match result and team performance data
+- **Professional Scouting Reports**: In-depth player evaluations from experts
+- **Match Performance Data**: Detailed statistics from official competitions
+- **Physical Metrics**: Speed, stamina, strength, and agility measurements
+- **Technical Attributes**: Passing accuracy, shooting efficiency, defensive actions
+- **Contract Information**: Salary details, contract length, release clauses
+- **Market Valuations**: Transfer fee estimates and historical transaction data
+- **Injury Records**: Historical injury data and recovery timelines
+- **Team Performance Context**: How players perform within different team setups
 
 ### Analysis Techniques
 
