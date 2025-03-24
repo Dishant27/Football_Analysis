@@ -1,4 +1,4 @@
-# ⚽ Football Player Analysis & Squad Builder
+# ⚽ Football Player Analysis & Advanced Performance Prediction System
 
 ![Python](https://img.shields.io/badge/Python-3.7-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Analysis-green.svg?style=for-the-badge)
